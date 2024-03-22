@@ -1,3 +1,7 @@
+#My submission for Web Game Development Jam (JS13KGames)
+
+### [Play the Game](https://deathcaves.netlify.app/)
+
 # ---DeaTh CavES---
 ### You are in an unsafe underground gold mining site. The mines starts collapsing and rocks falling. Death is hauntin u in these mines. Call it a warzone between you and the rocks. Survive as long as you can... 
 
